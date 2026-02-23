@@ -1,0 +1,69 @@
+{
+  "aggregateRating": {
+    "bestRating": null,
+    "ratingValue": 4,
+    "reviewCount": 1,
+    "worstRating": null
+  },
+  "availability": "in_stock",
+  "brand": "Vital Proteins",
+  "category": null,
+  "currency": "USD",
+  "description": "<h5>About Collagen Creamer - Vanilla</h5>\n<p>Vital Proteins Vanilla Collagen Creamer is a healthy, delicious addition to your morning cup of coffee. It features healthy fats from organic coconut milk which is is an excellent source of Medium Chain Triglycerides (MCTs), making it great for energy production.  Vital Proteins Vanilla Collagen Creamer also contains 10 grams of collagen peptides sourced from grass-fed, pasture-raised bovine. </p>\n<h5>Why It’s Special</h5>\n<ul>\n<li>Boasts 9 grams of healthy fat from organic coconut milk powder, an excellent source of Medium Chain Triglycerides (MCTs) and lauric acid.</li>\n<li>Collagen’s amino acid spectrum provides the building blocks for hair, skin, nails, bones, joints, and other connective tissues.</li>\n<li>Easily digested and absorbed by the body.</li>\n</ul>\n<h5>How To Use</h5>\n<p>Collagen Creamers work as coffee creamers, but their applications don’t end there. Use your Coconut Collagen Creamer in a variety of ways:\n* Mix into any hot or cold liquid, such as coffee or tea.\n* Bake into desserts and pastries.\n* Sprinkled over oatmeal.\n* Blend into a smoothie or frappucino.</p>\n<h5>Key Ingredients</h5>\n<ul>\n<li>10 g Collagen Peptides - great for hair, skin &amp; nails.</li>\n<li>9 g of MCT-Rich Coconut Milk - boosts energy.</li>\n</ul>\n<h5>Other Details</h5>\n<ul>\n<li>Size: 10.6 oz / 300 g</li>\n<li>Gluten-Free</li>\n<li>Dairy-Free</li>\n<li>No Sugar Added</li>\n<li>Paleo Friendly </li>\n<li>Whole 30 Approved</li>\n</ul>",
+  "features": [
+    "Boasts 9 grams of healthy fat from organic coconut milk powder, an excellent source of Medium Chain Triglycerides (MCTs) and lauric acid.",
+    "Collagen’s amino acid spectrum provides the building blocks for hair, skin, nails, bones, joints, and other connective tissues.",
+    "Easily digested and absorbed by the body.",
+    "10 g Collagen Peptides - great for hair, skin & nails.",
+    "9 g of MCT-Rich Coconut Milk - boosts energy."
+  ],
+  "images": [
+    {
+      "altText": "Vital Proteins Vanilla Collagen Creamer 10.6 oz alternative view 1.",
+      "url": "https://dy6g3i6a1660s.cloudfront.net/jbCSpoaf5MIr6mHoiEL-7QR-BH4/zb_p.jpg"
+    },
+    {
+      "altText": "Vital Proteins Vanilla Collagen Creamer 10.6 oz alternative view 2.",
+      "url": "https://dy6g3i6a1660s.cloudfront.net/HN8l6CpfGpoRJe9-7Nj5HAR-BH4/zb_p.jpg"
+    }
+  ],
+  "name": "Vital Proteins Vanilla Collagen Creamer 10.6 oz",
+  "preDiscountPrice": null,
+  "price": 31,
+  "productId": "vital-proteins-vanilla-collagen-creamer-10-6-oz",
+  "reviews": [],
+  "seller": {
+    "name": "Beautylish",
+    "rating": null,
+    "url": "https://www.beautylish.com"
+  },
+  "serialNumbers": [],
+  "specifications": [
+    {
+      "key": "Size",
+      "value": "10.6 oz / 300 g"
+    },
+    {
+      "key": "Dietary",
+      "value": "Gluten-Free"
+    },
+    {
+      "key": "Dietary",
+      "value": "Dairy-Free"
+    },
+    {
+      "key": "Dietary",
+      "value": "No Sugar Added"
+    },
+    {
+      "key": "Dietary",
+      "value": "Paleo Friendly"
+    },
+    {
+      "key": "Dietary",
+      "value": "Whole 30 Approved"
+    }
+  ],
+  "url": "https://www.beautylish.com/s/vital-proteins-vanilla-collagen-creamer-10-6-oz",
+  "videos": []
+}
