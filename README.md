@@ -1,4 +1,4 @@
-# Beautylish Scrapers Scrapers
+# Beautylish Scrapers
 
 Open-source web scrapers for beautylish. Extract product data, search results, and category listings with Python and Node.js implementations using Playwright, Puppeteer, and more.
 
